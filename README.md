@@ -10,7 +10,7 @@
 
 ## 下载地址
 
-直接从[GitHub Release]()下载即可。
+直接从[GitHub Release](https://github.com/ellenbboe/CameraVoyeur/releases/tag/V1.0.1)下载即可。
 
 （仅限Windows）
 
